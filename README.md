@@ -4,7 +4,7 @@
 Created a music player when I began learning Vue.js & Vuetify.
 Player has previous, stop, play, pause, next, repeat and shuffle functionalities.
 
-![alt text](https://github.com/laurengranada/TriviaGame/blob/master/read-images/screenshot.jpg)
+![alt text](https://github.com/laurengranada/vuetify-music-player/blob/master/read-images/vuetifyplayer.png)
 
 ### Languages Used
 

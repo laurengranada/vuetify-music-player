@@ -1,18 +1,11 @@
-# vue-music-player
+# Vuetify Music Player
 
-> A Vue.js project
+### Overview
+Created a music player when I began learning Vue.js & Vuetify.
+Player has previous, stop, play, pause, next, repeat and shuffle functionalities.
 
-## Build Setup
+![alt text](https://github.com/laurengranada/TriviaGame/blob/master/read-images/screenshot.jpg)
 
-``` bash
-# install dependencies
-npm install
+### Languages Used
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+HTML, CSS, Javascript, Vue.js, Vuetify
